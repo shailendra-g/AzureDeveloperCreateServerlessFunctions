@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessFuncs", "ServerlessFuncs\ServerlessFuncs.csproj", "{06FE6081-A8B9-472D-9699-3FCF8449FB8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessFuncsApi", "ServerlessFuncsApi\ServerlessFuncsApi.csproj", "{4BE62303-C0EE-489C-BC73-E495CB455416}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApi", "ServerlessFuncsApi\ToDoApi.csproj", "{4BE62303-C0EE-489C-BC73-E495CB455416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
